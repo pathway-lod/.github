@@ -45,7 +45,7 @@ We’re a collaborative initiative led by researchers at:
 
 Have questions or want to collaborate?  
 📧 elena.delpup@wur.nl 
-💼 [Elena Del Pup - LinkedIn](https://www.linkedin.com/in/elenadelpup/)  
+💼 [Elena Del Pup - LinkedIn](https://www.linkedin.com/in/elena-del-pup-840805164/)
 
 ---
 
