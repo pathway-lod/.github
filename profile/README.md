@@ -39,6 +39,12 @@ We’re a collaborative initiative led by researchers at:
 - 🧾 [Knowledge Graph Symposium — October 2025 (Recording)](https://www.youtube.com/watch?v=NgYRHiuBvpc)  
 - 🌐 [Wikipathways](https://www.wikipathways.org/)
 
+--- 
+
+## 💰 Funding 
+
+This project was supported by the [4th edition of the FAIR Data Fund](https://community.data.4tu.nl/2025/01/13/winners-of-the-4th-edition-of-the-fair-data-fund/). Read more about the projet at [FAIR DATA Fund use case](https://community.data.4tu.nl/2025/11/04/fair-data-fund-use-case-catalyzing-plant-natural-product-discovery-with-a-community-driven-knowledge-base/). 
+
 ---
 
 ## 💬 Get in Touch
